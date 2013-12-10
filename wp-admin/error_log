@@ -1,0 +1,1 @@
+[04-Dec-2013 02:49:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edmultim/public_html/rdesarrollo/lunanegra/wp-admin/includes/template.php:1692) in /home/edmultim/public_html/rdesarrollo/lunanegra/wp-includes/pluggable.php on line 899

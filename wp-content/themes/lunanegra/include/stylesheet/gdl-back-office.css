@@ -1,0 +1,20 @@
+@font-face {
+	font-family: "Gnuolane Free";
+	src: url("../../javascript/font/gnuolane_free-webfont.eot");
+	src: local("Gnuolane Free"), url("../../javascript/font/gnuolane_free-webfont.ttf") format("truetype");
+}
+#portfolio-category.manage-column.column-portfolio-category{
+	width: 18%;
+}
+#testimonial-category.manage-column.column-testimonial-category{
+	width: 18%;
+}
+#price-table-category.manage-column.column-price-table-category{
+	width: 18%;
+}
+#portfolio-tags.manage-column.column-portfolio-tags{
+	width: 18%;
+}
+#author.manage-column.column-author{
+	width: 12%;
+}

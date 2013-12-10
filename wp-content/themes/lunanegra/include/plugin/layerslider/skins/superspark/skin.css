@@ -1,0 +1,22 @@
+/* LayerSlider Default Skin */
+.ls-superspark .ls-bottom-nav-wrapper { display: none; }
+
+.ls-superspark .ls-playvideo { width: 50px; height: 50px; margin-left: -25px; margin-top: -25px; }
+
+.ls-superspark .ls-playvideo, .ls-superspark .ls-nav-sides, .ls-superspark .ls-bottom-slidebuttons a,
+.ls-superspark .ls-nav-start, .ls-superspark .ls-nav-stop { background-image: url(skin.png); }
+
+.ls-superspark .ls-playvideo { background-position: -300px -150px; }
+
+.ls-superspark .ls-playvideo:hover,
+.ls-superspark .ls-vpcontainer:hover .ls-playvideo { background-position: -375px -150px; }
+
+
+.ls-superspark .ls-nav-prev,
+.ls-superspark .ls-nav-next { top: 0px; width: 40px; height: 100%;  
+	z-index: 10000; position: absolute; background-position: center; background-repeat: no-repeat; }
+
+.ls-superspark .ls-nav-prev { left: 0px; background-image: url(top-slider-nav-left.png); }
+.ls-superspark .ls-nav-next { right: 0px; background-image: url(top-slider-nav-right.png); }
+
+.ls-container{ position: static !important; }
